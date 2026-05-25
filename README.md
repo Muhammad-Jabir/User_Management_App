@@ -1,4 +1,10 @@
 # User Management App
+
+
+
+https://github.com/user-attachments/assets/3a71c7be-8d38-4169-8e19-8e482572be6a
+
+
  
 A full-stack user management web application built with **Node.js**, **Express**, **EJS**, and **MySQL** — demonstrating complete CRUD operations with a real relational database.
  
